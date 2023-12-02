@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+
+
+ul,li,ol{ list-style:none;}
+
+
+html{width:100%;
+	 height:100%;
+	-ms-text-size-adjust:none;
+	-webkit-text-size-adjust:none;
+	-moz-text-size-adjust:none;
+	-o-text-size-adjust:none;
+}
+/*text-size-adjust不管屏幕怎么变文字大小不变*/
+
+
+   
+a:link,a:visited{text-decoration:none; outline:none; color: #000;}
+/*所有超链接不要下划线*/
+* {padding:0;margin:0;}； 	
+
+
+
+
+

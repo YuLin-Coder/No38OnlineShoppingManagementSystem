@@ -1,0 +1,19 @@
+body {background-color: f5f5f5;}
+.main{margin-left: 30%; margin-top: 5%;}
+.login1{width: 440px; height: 370px; border: 1px solid #d1d1cf; align: left; background-color: #f4f4f4;}
+.login2{width:436px; height:366px; margin: 2px; background-color: #ffffff;}
+.loginTopDiv {padding: 30px;}
+.loginTop {color: #696969; font-size: 20px; font-weight: 900;}
+.regist {margin-left: 100px;}
+table {margin-left: 30px;font-size: 15px;color: #404040;}
+.input {width: 235px;height: 26px;border: 1px solid #d9d9d9;padding-top: 4px;padding-left: 8px;}
+.yzm {width: 90px;height: 26px;border: 1px solid #d9d9d9;vertical-align: middle; margin-right: 30px;padding-top: 4px;padding-left: 8px;}
+label.error {color:#cc3300;font-weight: 900;font-size: 10pt}
+#vCode {margin-right: 30px; vertical-align: middle;width: 70px;height: 26px;border: 1px solid #000;}
+.loginBtn {border: 0px; width: 92px; height: 27px;}
+
+
+
+
+
+

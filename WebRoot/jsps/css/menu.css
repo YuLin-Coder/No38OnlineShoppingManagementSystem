@@ -1,0 +1,21 @@
+*{margin: 0;padding: 0}
+body{font-size: 12px;font-family: "宋体","微软雅黑";}
+ul,li{list-style: none;}
+a:link,a:visited{text-decoration: none;}
+
+.list{width: 210px;border-bottom:solid 1px #FF6633;margin:40px auto 0 auto;}
+.list ul li{background-color:#FF3366; border:solid 1px #FF3366; border-bottom:0;}
+.list ul li a{padding-left: 10px;color: #fff; font-size:12px; display: block; font-weight:bold; height:36px;line-height: 36px;position: relative;
+}
+.list ul li .inactive{ background:url(../img/off.png) no-repeat 184px center;}
+.list ul li .inactives{background:url(../img/on.png) no-repeat 184px center;} 
+.
+list ul li ul{display: none;}
+.list ul li ul li { border-left:0; border-right:0; background-color:#FF6633; border-color:#FFFFF;}
+
+.list ul li ul li ul{display: none;}
+.list ul li ul li a{ padding-left:20px;}
+
+.list ul li ul li ul li { background-color:#d6e6f1; border-color:#6196bb; }
+.last{ background-color:#d6e6f1; border-color:#6196bb; }
+.list ul li ul li ul li a{ color:#316a91; padding-left:30px;}
